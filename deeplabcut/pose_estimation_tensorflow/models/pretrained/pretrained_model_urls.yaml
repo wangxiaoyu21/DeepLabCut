@@ -21,3 +21,4 @@ mouse_pupil_vclose: http://deeplabcut.rowland.harvard.edu/models/DLC_mouse_pupil
 horse_sideview: http://deeplabcut.rowland.harvard.edu/models/DLC_Horses_resnet_50_iteration-1_shuffle-1.tar.gz
 full_macaque: http://deeplabcut.rowland.harvard.edu/models/DLC_macaque_full_resnet50.tar.gz
 full_cheetah: http://deeplabcut.rowland.harvard.edu/models/DLC_full_cheetah_resnet_152.tar.gz
+multimouse: http://deeplabcut.rowland.harvard.edu/models/DLC_MultiMouse_DLCRNet_50_iteration-1_shuffle-0.tar.gz

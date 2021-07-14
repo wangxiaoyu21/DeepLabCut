@@ -25,6 +25,7 @@ Modeloptions = [
     "horse_sideview",
     "full_macaque",
     "full_cheetah",
+    "multimouse",
 ]  # just expand this list with new projects
 
 
